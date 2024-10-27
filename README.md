@@ -1,1 +1,1 @@
-A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses on COVID-19 trends, Student Mental health analysis, Zomato data, and more, showcasing the power of data-driven storytelling.
+A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses on Student Mental health analysis, Zomato data, and more, showcasing the power of data-driven storytelling.
